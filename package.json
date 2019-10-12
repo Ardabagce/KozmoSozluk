@@ -1,0 +1,24 @@
+{
+  "name": "KozmoSozluk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardabagce/KozmoSozluk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ardabagce/KozmoSozluk/issues"
+  },
+  "homepage": "https://github.com/Ardabagce/KozmoSozluk#readme"
+}
